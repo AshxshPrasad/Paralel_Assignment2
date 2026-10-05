@@ -1,0 +1,9 @@
+# Executables and build outputs
+*.exe
+*.o
+*.obj
+*.out
+
+# Python cache / artifacts
+__pycache__/
+*.pyc
